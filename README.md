@@ -42,5 +42,7 @@ Download the zip folder from the repository by clicking the green button with **
 
 *If using and downloading libraries is new to you check out this video:* [Installing libraries in the arduino IDE](https://www.youtube.com/watch?v=LXLfA3uRP3w&t=89s)
   
->After getting the necessary libraries Upload the sketch to the esp32, I shared some images in the repo of the output screens 
+>After getting the necessary libraries Upload the sketch to the esp32, I shared some images in the repo of the output screens
+>
+>There's another sketch file in the folder with various commands you can try out on the TFT display
 
