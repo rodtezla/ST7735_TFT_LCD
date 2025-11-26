@@ -31,7 +31,7 @@ ___
 
 ___
 ## Code Sketch
-Download the zip folder from the repository by clicking the green button with ***<> code***
+Download the zip folder from the repository by clicking the button with ***<> code***
 - Unzip and open the folder
 - Search for an arduino code file with the same name as the zip folder
 - Double click to open it in the arduino IDE
